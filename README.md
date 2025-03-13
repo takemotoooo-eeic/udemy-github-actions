@@ -26,3 +26,5 @@ npm ci
 npm run build
 node dist/index.js
 ```
+
+[![backend](https://github.com/takemotoooo-eeic/udemy-github-actions/actions/workflows/%20backend.yaml/badge.svg)](https://github.com/takemotoooo-eeic/udemy-github-actions/actions/workflows/%20backend.yaml)
